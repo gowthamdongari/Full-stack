@@ -3,9 +3,11 @@
 .h-center {
     text-align: center;
     /*!background-color:azure; > commented to insert image*/
-    background-image: url(https://www.computersciencedegreehub.com/wp-content/uploads/2016/02/what-is-coding-768x512.jpg);
-    height: 450px;
-    width: 900px;
+    background-image: url(https://img.freepik.com/free-photo/creative-metaverse-vr-glasses-collage-concept_52683-86007.jpg?t=st=1655734599~exp=1655735199~hmac=c61bca1a099b058c735afb99f4842fd33ace52f6eccf80cb30d71bf02b45b6af&w=900);
+    background-size: cover;
+    height: 90vh;
+    width: 100vw;
+    padding: 30px;
 }
 .main-heading {
     color:  red;
@@ -20,4 +22,12 @@
 .paragraph {
     color: yellow;
     font-size: 25px;
+}
+.button {
+    border-width: 5px;
+    border-color: burlywood;
+    border-radius: 5px;
+    border-style:  double;
+    background-color: azure;
+
 }
