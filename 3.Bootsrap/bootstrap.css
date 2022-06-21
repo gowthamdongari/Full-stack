@@ -1,6 +1,20 @@
+.bg{
+    background-image: url(https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/906545/REDESIGN-Speeding-up-Application-Development-with-Bootstrap-Luke_Social-3b49f4c2abf94e39b2f311ed9f0c3785.png);
+    height: 100vh;
+    background-size: cover;
+}
+.boot{
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 2px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+
+}
+
 .button{
     height: 30px;
-    width: 85px;
+    width: 100px;
     border-radius: 10px;
     border-width: 0;
 
