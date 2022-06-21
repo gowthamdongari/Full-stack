@@ -1,0 +1,17 @@
+.button{
+    height: 30px;
+    width: 85px;
+    border-radius: 10px;
+    border-width: 0;
+
+}
+
+.button-green{
+    background-color: #56ed34;
+
+}
+
+.button-red {
+    background-color: #e32d19;
+}
+
