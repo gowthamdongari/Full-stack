@@ -1,0 +1,31 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bck{
+    
+    background-image: url(https://img.freepik.com/free-photo/descomposition-person-wearing-vr-glasses_23-2149089513.jpg?t=st=1656004121~exp=1656004721~hmac=b9d96af17411a21ba84acb3f762167ddf5da95f2876d79c2e1dd3a67128a4d8e&w=900);
+    background-size: cover;
+    height: 80vh;
+
+}  
+
+.container{
+    
+    border-radius: 50px;
+    background-color: white;
+    padding: 15px;
+}
+
+.heading{
+    font-size: 25px;
+    font-family: cavet;
+    padding: 10px;
+    color: blue;
+
+}
+
+.para{
+    font-family: roboto;
+    margin: 5px;
+    padding: 5px;
+}
