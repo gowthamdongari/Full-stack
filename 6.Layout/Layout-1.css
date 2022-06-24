@@ -5,15 +5,16 @@
     
     background-image: url(https://img.freepik.com/free-photo/descomposition-person-wearing-vr-glasses_23-2149089513.jpg?t=st=1656004121~exp=1656004721~hmac=b9d96af17411a21ba84acb3f762167ddf5da95f2876d79c2e1dd3a67128a4d8e&w=900);
     background-size: cover;
-    height: 80vh;
+    height: 100vh;
 
 }  
 
-.container{
-    
-    border-radius: 50px;
-    background-color: white;
-    padding: 15px;
+.contain{
+     
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: whitesmoke;
+    padding: 15px; 
 }
 
 .heading{
@@ -28,4 +29,22 @@
     font-family: roboto;
     margin: 5px;
     padding: 5px;
+}
+.but1{
+    color: black;
+    font-family: roboto;
+    padding: 5px;
+    border-radius: 8px;
+    background-color: aliceblue;
+    margin: 10px;
+
+}
+
+.but2{
+    color: white;
+    font-family: roboto;
+    padding: 5px;
+    border-radius: 8px;
+    background-color: rgb(26, 119, 201);
+
 }
