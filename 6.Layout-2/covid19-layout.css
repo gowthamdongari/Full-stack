@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.outer{
+    background-color: #0967d219;
+    padding: 10px;
+}
+
+.cont-1-bck{
+    background-color: #ffffff;
+    background-size: cover;
+    height: 100vh;
+    margin: 10px;
+}
+.cont-1-head{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 15px;
+}
+.cont-1-but{
+    padding: 15px;
+    font-size: 10px;
+    border-radius: 25px;
+    margin-left: 10px;  
+}
+.cont-1-img{
+   margin-top: 13px;
+}
+.cont-2-img{
+    margin-top: 13px; 
+}
+.cont-2-bck{
+    background-color: #0967d219;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+.cont-2-head{
+    font-family:  cursive;
+    font-size: 20px;
+    padding: 5px; 
+    font-weight: bold;
+}
+.cont-2-para{
+    font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 13px;
+    padding: 05px;  
+}
+.cont-3-head{
+    font-family:  cursive;
+    font-size: 20px;
+    padding: 10px; 
+    font-weight: bold; 
+}
+.cont-3-bck1{
+    background-color: #3ebd93;
+    height: 85px;
+    width: 80px;
+    border-radius: 8px;
+}
+.cont-3-box{
+    padding: 10px;
+}
+.cont-3-img1{
+    margin-top: 8px;
+    margin-left: 10px;
+
+}
+.cont-3-para1{
+    font-size: 13px;  
+    margin-left: 10px;
+    font-family: cursive;
+    color: #ffffff;
+}
+.cont-3-bck2{
+    background-color: #e668a7;
+    height: 85px;
+    width: 80px;
+    border-radius: 8px;
+}
+.cont-3-img2{
+    margin-top: 15px;
+    margin-left: 10px;
+
+}
+.cont-3-para2{
+    font-size: 13px;  
+    margin-left: 10px;
+    font-family: cursive;
+    color: #ffffff;
+}
+.cont-3-bck3{
+    background-color: #a368fc;
+    height: 85px;
+    width: 80px;
+    border-radius: 8px;
+}
+.cont-3-img3{
+    margin-top: 8px;
+    margin-left: 10px;
+
+}
+.cont-3-para3{
+    font-size: 13px;  
+    margin-left: 10px;
+    font-family: cursive;
+    color: #ffffff;
+}
+.cont-4-bck{
+    background-color: #e12d3919;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
