@@ -1,0 +1,29 @@
+.bg-cont{
+    background-image: url("https://img.freepik.com/free-photo/big-ben-westminster-bridge-sunset-london-uk_268835-1395.jpg?t=st=1656435301~exp=1656435901~hmac=487a94553024abf01c67c8d6ead8784c65ce21d6d1d4a5c00da33a176fb7743c&w=740");
+    height: 100vh;
+    background-size: cover;
+}
+.head-cont{
+    background-color: #ffffff; 
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    
+    height: 35vh;
+    text-align: center;
+}
+.head-1-cont{
+    font-family:  'Times New Roman', Times, serif;
+    font-size: 40px; 
+}
+.para-1-cont{
+    font-family:  'Times New Roman', Times, serif;
+    font-size: 15px;  
+}
+.but-1-cont{
+    height: 40px;
+    width: 135px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    border-width: 0px;
+
+}
