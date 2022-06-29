@@ -8,7 +8,7 @@
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     
-    height: 35vh;
+    height: 30vh;
     text-align: center;
 }
 .head-1-cont{
@@ -24,6 +24,45 @@
     width: 135px;
     border-radius: 20px;
     margin-bottom: 20px;
-    border-width: 0px;
+    border-width: 0px; 
+}
+.bg-2-cont{
+    background-image: url("https://img.freepik.com/free-photo/view-venice-grand-canal-santa-maria-della-salute-church-evening_163782-241.jpg?w=740");
+    background-size: cover;
+    height: 100vh;
+}
+.h-2-cont{
+    color: #ffffff;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 40px;
+    padding: 10px;
+    margin-left: 20px;
+}
+.bg-box-cont{
+    background-color: #ffffff;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 10px;
 
+}
+.h-box-cont{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.p-box-cont{
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+}
+.img-fav-cont{
+    height: 85px;
+    width: 75px;
+    border-radius: 10px;
+    margin-top: 8px;
+    margin-right: 5px;
+    margin-left: 5px;
 }
