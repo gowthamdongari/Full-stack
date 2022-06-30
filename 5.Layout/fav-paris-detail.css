@@ -1,0 +1,25 @@
+.bg-paris-det{
+    background-image: url(https://img.freepik.com/free-photo/famous-eiffel-tower-paris-with-gorgeous-colors_268835-830.jpg?t=st=1656515153~exp=1656515753~hmac=60c7fef5f7ba18c73c8ef569e7c93458d2af3cf25961519b11070cf7429b8a45&w=740);
+    background-size: cover;
+    height: 100vh;
+}
+
+.fav-paris-head{
+    padding: 10px;
+    font-family: cursive;
+    font-size: 35px;
+    color: #ffffff;
+}
+.fav-paris-cont{
+    margin: 15px;
+    padding: 2px;
+    background-color: #ffffff;
+}
+.fav-paris-img{
+    height: 69vh;
+}
+.fav-paris-para{
+    font-size: 15px;
+    padding: 5px;
+    font-family: cursive;
+}
