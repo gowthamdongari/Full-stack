@@ -1,0 +1,31 @@
+.bg-buda-det{
+    background-image: url(https://img.freepik.com/free-photo/venice-river-sunset_181624-40485.jpg?t=st=1656559528~exp=1656560128~hmac=4c64eaaf2e8049df290dc6cff8517f15c3a0458cf7e72ea3c928230e0f0666b2&w=740);
+    background-size: cover;
+    height: 100vh;
+}
+
+.fav-buda-head{
+    padding: 10px;
+    font-family: cursive;
+    font-size: 35px;
+    color: #ffffff;
+}
+.fav-buda-cont{
+    margin: 15px;
+    padding: 2px;
+    background-color: #ffffff;
+}
+.fav-buda-img{
+    height: 69vh;
+}
+.fav-buda-para{
+    font-size: 15px;
+    padding: 5px;
+    font-family: cursive;
+     
+}
+.unordered-buda{
+    list-style-type: circle;
+    padding: 10px;
+    margin-left: 50px;
+}
