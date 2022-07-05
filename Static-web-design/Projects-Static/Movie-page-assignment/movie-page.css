@@ -1,0 +1,41 @@
+.bcg-mov{
+
+    background-image: url("https://img.freepik.com/free-vector/winter-landscape-horizontal-banners-with-house-river-mountains-trees-day-night-time_1284-14912.jpg?t=st=1657021393~exp=1657021993~hmac=95aa7da1d9037df59618ba19513324f6b07500c90882d09497fc8001f732b334&w=740");
+    background-size: cover;
+    height: 100vh;  
+}
+.carousel{
+    margin: 10px;
+    border-radius: 10px;
+}
+.head-mov{
+     
+    font-size: 25px;
+    font-family: cursive;
+    margin-left: 15px;
+    font-weight: solid;
+    
+}
+.but-mov{
+    background-color: black;
+    border-radius: 8px;
+    color: orange;
+    margin-left: 25px;
+    height: 28px;
+    width: 100px;
+    
+}
+.para{
+    color: #594947;
+    margin-left: 10px;
+    margin: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+}
+.movies-pics {
+
+    height: 100px;
+    width: 00px;
+    margin: 10px;
+    padding: 10px;
+}
