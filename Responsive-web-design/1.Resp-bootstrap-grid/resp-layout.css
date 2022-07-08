@@ -1,0 +1,18 @@
+.bcg-resp{
+    background-image: url(https://img.freepik.com/free-photo/vestrahorn-mountains-stokksnes-iceland_335224-667.jpg?t=st=1657251053~exp=1657251653~hmac=5c0ce59beb52c812cd21619f713fd228980a13d406dd8efcbafd7f97ce1b66f0&w=900);
+    background-size: cover;
+    height: 50vh;
+}
+.head-resp{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 15px;
+    padding: 15px;
+}
+.para-resp{
+    font-size: 13px; 
+    margin-left: 15px;
+    padding: 0px;
+
+}
