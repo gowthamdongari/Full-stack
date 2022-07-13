@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.quiz {
+    background-color: #875fc0;
+    height: 100vh;
+    background-size: cover;
+}
+
+.score {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 18px;
+    text-align: right;
+    font-weight: 700;
+}
+
+.ques-card {
+    text-align: center;
+    background-color: #ffffff;
+
+
+    border-radius: 8px;
+    margin: 25px;
+    padding: 16px;
+}
+
+.ques-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 20px;
+    padding: 10px;
+    font-weight: 500;
+}
+
+.ques-para {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.code-img {
+
+    width: 250px;
+}
+
+.optn-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin: 25px;
+    padding: 16px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+
+}
+
+.html-head {
+    padding: 0px;
+    list-style-type: none;
+
+}
+
+.option {
+    color: #323f4b;
+    background-color: #ffffff;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    padding: 13px;
+    margin: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #323f4b;
+    border-radius: 8px;
+}
+
+.correct-optn {
+    color: #ffffff;
+    background-color: #875fc0;
+}
+
+.btn {
+    margin: 15px;
+    background-color: #fbaf00;
+    color: #ffffff;
+    height: 38px;
+    width: 98px;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+    border-width: 0px;
+    border-radius: 8px;
+
+}
