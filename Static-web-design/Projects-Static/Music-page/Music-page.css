@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-music {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.bg-music-heading {
+    color: #ffffff;
+    font-family: "bree Serif";
+    text-align: center;
+    font-size: 35px;
+    padding: 10px;
+}
+
+.bg-music-para {
+    color: #ffffff;
+    font-family: "bree Serif";
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.night-island {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    margin: 10px;
+    height: 200px;
+    width: 90vw;
+    border-radius: 20px;
+
+}
+
+.night-island-heading {
+    color: #ffffff;
+    font-family: "bree Serif";
+    font-size: 30px;
+    text-align: center;
+    padding: 50px;
+}
+
+.btn {
+    background-color: #8e97fd;
+    color: #ffffff;
+    font-size: 13px;
+    border-radius: 20px;
+}
+
+.bg-night {
+    background-color: #03174c;
+    height: 100vh;
+    background-size: cover;
+}
+
+.bg-moon {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/clouds-img.png");
+    height: 30vh;
+    background-size: cover;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.night-heading {
+    color: #ffffff;
+    font-family: "breeserif";
+    font-size: 30px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.night-para {
+    color: #98a1bd;
+    font-family: "breeserif";
+    font-size: 15px;
+    padding: 15px;
+}
+
+.related-heading {
+    color: #ffffff;
+    font-family: "breeserif";
+    font-size: 20px;
+    padding-left: 15px;
+}
+
+.moon-img {
+    height: 100px;
+    width: 180px;
+    margin-left: 35px;
+}
+
+.moon-heading {
+    color: #ffffff;
+    font-family: "breeserif";
+    font-size: 15px;
+    padding-left: 90px;
+}
+
+.moon-para {
+    color: #98a1bd;
+    font-family: "breeserif";
+    font-size: 15px;
+    padding-left: 50px;
+}
+
+.btn {
+    color: #ffffff;
+    background-color: #8e97fd;
+    width: 100px;
+}
