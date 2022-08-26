@@ -14,3 +14,31 @@
     font-size: 16px;
     color: #5a7184;
 }
+.wcu-card{
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 16px;
+    color: #e5eaf4;
+}
+.wcu-img-card{
+    height: 90px;
+    width: 87px;
+}
+.wcu-card-heading{
+    font-family: roboto;
+    font-size: 22px;
+    font-weight: 500;
+    color: #323f4b;
+}
+.wcu-card-description{
+    font-family: roboto;
+    font-size: 16px;
+    color: #7b8794; 
+}
+.offers{
+    font-style: italic;
+    font-weight: 600;
+    color: #323f4b;
+}
