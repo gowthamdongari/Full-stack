@@ -56,8 +56,32 @@
                         <div class="d-md-none">
                             <img class="thanking-customers-img" src="https://img.freepik.com/free-vector/3d-gift-box-wrapped-golden-ribbon_173207-1906.jpg?w=740&t=st=1661584384~exp=1661584984~hmac=5a10d8008e85c9a15a6c9d52f0196532f228df27f8164de433d08f5122492eff">
                         </div>
-                        <div>
-                            <button class="thanking-gift-btn mt-3"> Redeem Now </button>
+                        <div> 
+                            <button type="button" class=" thanking-gift-btn" data-toggle="modal" data-target="#exampleModal">
+                                Redeem Now
+                              </button>
+                              
+                              <!-- Modal -->
+                              <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog mt-5">
+                                  <div class="modal-content">
+                                    <div class="modal-header">
+                                      <h5 class="modal-title thanking-gift-btn-modal-heading" id="exampleModalLabel">Gift Voucher</h5>
+                                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                      </button>
+                                    </div>
+                                    <div class="modal-body"> 
+                                        <img class="w-100" src="https://img.freepik.com/free-vector/50-gift-voucher_23-2147964894.jpg?w=740&t=st=1661664120~exp=1661664720~hmac=6c8feb56c410453149539d63eaf16cbabf7e6556c56c8b1856329207d0211a15">  
+                                    </div>
+                                    <div class="modal-footer">
+                                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button> 
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              
+                            
                         </div> 
                     </div>             
                     <div class="col-12 col-md-5 d-none d-md-block" >

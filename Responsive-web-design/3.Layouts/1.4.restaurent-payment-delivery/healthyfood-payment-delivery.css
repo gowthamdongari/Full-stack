@@ -40,8 +40,8 @@
     width: 50px; 
     margin-right: 5px;
 }
-.bg-thanking-customeres{
-    background-color: bisque;
+.bg-thanking-customeres{ 
+    background-image: radial-gradient(#fff8db, #fae38c);
 }
 .thanking-customeres-heading{
     font-size: 28px;
@@ -64,8 +64,13 @@
     height: 45px;
     width: 150px;
     color: white;
-    background-color: #d0b200;
+    background-image: radial-gradient(#d0b200, #a58d00);
     border-width: 0;
     border-radius: 8px;
     margin-right: 10px;
+    margin-top: 8px;
+}
+.thanking-gift-btn-modal-heading{
+    color: #d0b200;
+    font-weight: 800;
 }
