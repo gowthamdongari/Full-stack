@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.navbar-profile-bg{
+    background-color: #7da805a4  ;
+    border-radius: 5px;
+}
+.nav-brand-icon{
+    height: 60px;
+    width: 65px;
+    border-radius: 9px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #4b6cc1;
+} 
+.banner-bg-container{
+    background-color: #39645b;
+    background-size: cover;
+    height: 100vh;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+.profile-navbar-heading{
+    color: white;
+    font-size: 35px;
+    font-family: roboto;
+}
+.special-heading{
+    color: darkgray;
+    font-size: 45px;
+    font-family:  'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.profile-collapse-menu{
+    color: white;
+    font-family: "Roboto";
+    margin-left: 5px;
+    font-size: 16px;
+}
+.profile-navbar-para{
+    font-family: roboto;
+    font-size: 32px;
+}
+.profile-nav-btn{
+    background-color: seashell;
+    border-radius: 3px;
+    border-width: thin;
+    border-style: none;
+    height: 40px;
+    width: 110px;
+    color: #39645b;
+    font-size: 18px;
+    font-weight: 500;
+}
+.profile-navbar-img{
+    width: 50%;
+    border-radius:  50%;
+    margin-top: 35px;
+}
