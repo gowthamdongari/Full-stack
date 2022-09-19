@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+ .bg-profile-about-me{
+    background-color: #323f4b;
+ 
+ }
+ .profile-aboutme-head{
+    font-size: 32px;
+    font-family: roboto;
+    color: #1282f3;
+    margin-top: 8px;
+ }
+ .para-profile-about-me{
+    font-size: 42px;
+    font-family: roboto;
+    color: aliceblue;
+ }
+ .profile-aboutme-img{
+    width: 100%;
+    border-radius: 15px;
+    image-resolution: 300dpi;
+ }
+ .para-about-me{
+    color: white;
+    margin-top: 15px;
+ }
+ .bg2-about-me{
+   background-color: #1f2933;
+ }
+ 
+ .icon-about-me{
+   width: 65px;
+   height: 65px;
+   text-align: center; 
+ }
+ .box-about-me{
+   background-color: #323f4b;
+   border-radius: 8px;
+   padding: 8px; 
+ }
+ .heading-box-aboutme{
+   color: white;
+   font-size: 32px;
+   font-family: 'Times New Roman', Times, serif;
+   padding: 3px;
+ }
