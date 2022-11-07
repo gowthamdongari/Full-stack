@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.traffic-light-container{
+    background-color: #86d2f2;
+    padding: 20px;
+}
+
+.traffic-light-heading{
+    color: #1f1d41;
+    margin-bottom: 45px;
+    text-align: center;
+    font-size: 42px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+.button{
+    border-radius: 8px;
+    height: 38px;
+    width: 72px;
+    margin-top: 40px;
+    color: antiquewhite;
+    background-color: #1f1d41;
+    font-family: "Roboto";
+    border-width: 0;
+    font-size: 15px;
+}
+.Traffic-light-stand{
+    background-color: #1f1d41;
+    width: 90px;
+    height: 280px;
+    border-radius: 25px;
+    margin-left: 35px;
+    margin-bottom: 45px;
+
+
+}
+.bulb{
+    background-color: #4b5069;
+    height: 35px;
+    width: 35px;
+    margin-top: 38px;
+    padding: 20px;
+    border-radius: 25px;
+    margin-left: 25px;
+
+}
