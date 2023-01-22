@@ -17,7 +17,7 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://Python-Hacker-Rank-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=D0D3D4&background=000000&center=true&vCenter=true&width=435&lines=FULL+STACK+BOOT+CAMP" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=+Full+Stack+Boot+Camp" alt="Typing SVG" /></a>
 </p>
 
 ## Description
