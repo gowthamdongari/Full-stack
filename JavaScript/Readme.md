@@ -29,7 +29,7 @@ The Full Stack Boot Camp program for everyone .
 ## `Table of Contents 📋`
 | **SNo.**  | **Contents**                              |
 |-----------|-------------------------------------------|
-| 001.        | [Introduction to Js and variables](https://github.com/gowthamdongari/Python-Hacker-Rank/tree/master/JavaScript/01.%20Intro%20to%20JS%20%26%20variables) |
+| 001.        | [Introduction to Js and variables](https://github.com/gowthamdongari/Full-stack-boot-camp/tree/master/JavaScript/01.%20Intro%20to%20JS%20%26%20variables) |
 | 002.        | [DOM & event Fundamentals](https://github.com/gowthamdongari/Full-stack-boot-camp/tree/master/JavaScript/02.%20DOM%20%26%20event%20Fundamentals)  |
 | 003.        | [Primitive Types & Conditionals](https://github.com/gowthamdongari/Full-stack-boot-camp/tree/master/JavaScript/03.Primitive%20Types%20%26%20Conditionals)  |
 | 004.        | [counter Application](https://github.com/gowthamdongari/Full-stack-boot-camp/tree/master/JavaScript/04.counter%20Application)  |
