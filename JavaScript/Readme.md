@@ -71,22 +71,22 @@ This section lists  major frameworks/libraries used to bootstrap the project.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/gowthamdongari/Python-Hacker-Rank.svg?style=for-the-badge
-[contributors-url]: https://github.com/gowthamdongari/Python-Hacker-Rank/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/gowthamdongari/Python-Hacker-Rank.svg?style=for-the-badge
-[forks-url]: https://github.com/gowthamdongari/Python-Hacker-Rank/network/members
-[stars-shield]: https://img.shields.io/github/stars/gowthamdongari/Python-Hacker-Rank.svg?style=for-the-badge
-[stars-url]: https://github.com/gowthamdongari/Python-Hacker-Rank/stargazers
-[issues-shield]: https://img.shields.io/github/issues/gowthamdongari/Python-Hacker-Rank.svg?style=for-the-badge
-[issues-url]: https://github.com/gowthamdongari/Python-Hacker-Rank/issues
-[license-shield]: https://img.shields.io/github/license/gowthamdongari/Python-Hacker-Rank.svg?style=for-the-badge
-[license-url]: https://github.com/gowthamdongari/Python-Hacker-Rank/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/gowthamdongari/Full-stack-boot-camp.svg?style=for-the-badge
+[contributors-url]: https://github.com/gowthamdongari/Full-stack-boot-camp/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/gowthamdongari/Full-stack-boot-camp.svg?style=for-the-badge
+[forks-url]: https://github.com/gowthamdongari/Full-stack-boot-camp/network/members
+[stars-shield]: https://img.shields.io/github/stars/gowthamdongari/Full-stack-boot-camp.svg?style=for-the-badge
+[stars-url]: https://github.com/gowthamdongari/Full-stack-boot-camp/stargazers
+[issues-shield]: https://img.shields.io/github/issues/gowthamdongari/Full-stack-boot-camp.svg?style=for-the-badge
+[issues-url]: https://github.com/gowthamdongari/Full-stack-boot-camp/issues
+[license-shield]: https://img.shields.io/github/license/gowthamdongari/Full-stack-boot-camp.svg?style=for-the-badge
+[license-url]: https://github.com/gowthamdongari/Full-stack-boot-camp/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/gowthamdongari/
-[commit-shield]: https://img.shields.io/github/last-commit/gowthamdongari/Python-Hacker-Rank.svg?style=for-the-badge
-[commit-url]: https://img.shields.io/github/last-commit/gowthamdongari/Python-Hacker-Rank
-[view-shield]: https://img.shields.io/github/watchers/gowthamdongari/Python-Hacker-Rank.svg?style=for-the-badge
-[view-url]: https://views.whatilearened.today/views/github/gowthamdongari/Full-stack-boot-camp/Python-Hacker-Rank.svg?cache=remove
+[commit-shield]: https://img.shields.io/github/last-commit/gowthamdongari/Full-stack-boot-camp.svg?style=for-the-badge
+[commit-url]: https://img.shields.io/github/last-commit/gowthamdongari/Full-stack-boot-camp
+[view-shield]: https://img.shields.io/github/watchers/gowthamdongari/Full-stack-boot-camp.svg?style=for-the-badge
+[view-url]: https://views.whatilearened.today/views/github/gowthamdongari/Full-stack-boot-camp.svg?cache=remove
 
 
 [product-screenshot]: images/screenshot.png
