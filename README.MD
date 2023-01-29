@@ -120,7 +120,7 @@ This section lists  major frameworks/libraries used to bootstrap the project.
 [linkedin-url]: https://www.linkedin.com/in/gowthamdongari/
 [commit-shield]: https://img.shields.io/github/last-commit/gowthamdongari/Full-stack-boot-camp.svg?style=for-the-badge
 [commit-url]: https://img.shields.io/github/last-commit/gowthamdongari/Full-stack-boot-camp
-[view-shield]: https://img.shields.io/github/watchers/gowthamdongari/Full-stack-boot-camp.svg?style=for-the-badge
+[view-shield]: https://views.whatilearened.today/views/github/gowthamdongari/Full-stack-boot-camp.svg?cache=remove
 [view-url]: https://views.whatilearened.today/views/github/gowthamdongari/Full-stack-boot-camp.svg?cache=remove
 
 
