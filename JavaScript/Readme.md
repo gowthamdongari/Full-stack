@@ -35,7 +35,20 @@ The Full Stack Boot Camp program for everyone .
 | 004.        | [counter Application](https://github.com/gowthamdongari/Full-stack-boot-camp/tree/master/JavaScript/04.counter%20Application)  |
 | 005.        | [Input element & math Function](https://github.com/gowthamdongari/Full-stack-boot-camp/tree/master/JavaScript/05.%20Input%20element%20%26%20math%20Function)  |
 | 006.        | [SignIn Page](https://github.com/gowthamdongari/Full-stack-boot-camp/tree/master/JavaScript/06.%20SignIn%20Page) |
-|             |   |
+| 007.        | [Guessing Game](https://github.com/gowthamdongari/Full-stack-boot-camp/tree/master/JavaScript/07.%20Guessing%20Game)  |
+| 008.        | [Color Picker](https://github.com/gowthamdongari/Full-stack-boot-camp/tree/master/JavaScript/08.%20Color%20Picker%20Project)  |
+| 009.        | [Traffic Light](https://github.com/gowthamdongari/Full-stack-boot-camp/tree/master/JavaScript/09.%20Traffic%20light)  |
+| 010.        | [Season Switcher](https://github.com/gowthamdongari/Full-stack-boot-camp/tree/master/JavaScript/10.Season%20Switcher)  |
+| 011.        | [Toggle Like and Unlike button]()  |
+| 012.        | [Tip Calculator]()  |
+| 013.        | [Sizing an Image](https://github.com/gowthamdongari/Full-stack-boot-camp/tree/master/JavaScript/13.%20Sizing%20an%20image)  |
+| 014.        | [Arrays](https://github.com/gowthamdongari/Full-stack-boot-camp/tree/master/JavaScript/14.%20Arrays%20%26%20more%20DOM%20manipulations)  |
+| 015.        | [Objects](https://github.com/gowthamdongari/Full-stack-boot-camp/tree/master/JavaScript/15.%20objects)  |
+| 016.        | [Addition Game]()  |
+| 017.        | [Random Color]()  |
+| 018.        | [Button Maker]()  |
+| 020.        | [Tabs]()  |
+
 
 
 
