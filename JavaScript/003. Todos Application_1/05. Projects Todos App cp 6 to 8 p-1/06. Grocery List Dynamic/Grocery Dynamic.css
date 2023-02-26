@@ -1,0 +1,30 @@
+
+
+.bg-container{
+    background-color: #306781;
+    padding:  30px;
+    height: 100vh;
+}
+
+.heading{
+    font-family: roboto;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.list-container{
+    background-color: white;
+    border-radius: 6px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 45px;
+    padding-left: 45px;
+}
+
+.delivery-text{
+    font-family: roboto;
+    font-size: 16px;
+    color: white;
+}
